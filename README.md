@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/balbir-25/job-static-listing)
-- Live Site URL:( https://balbir-25.github.io/job-static-listing/)
+- Solution URL:(https://github.com/balbir-25/job-listing)
+- Live Site URL:( https://balbir-25.github.io/job-listing/)
 
 ## My process
 
